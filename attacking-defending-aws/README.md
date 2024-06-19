@@ -11,5 +11,5 @@ This pathway provides hands on access with common misconfigurations across AWS e
 - exploiting weaknesses in the most common AWS services including S3, EC2, VPC and mo
 
 # Table of Contents
-- AWS 101
-- AWS Basic Concept
+- AWS: Cloud 101
+- AWS Basic Concepts
