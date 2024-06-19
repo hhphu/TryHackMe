@@ -10,4 +10,6 @@ This pathway provides hands on access with common misconfigurations across AWS e
 - exploring serverless infrastructure and common attack vectors present within these services
 - exploiting weaknesses in the most common AWS services including S3, EC2, VPC and mo
 
-  
+# Table of Contents
+- AWS 101
+- AWS Basic Concept
