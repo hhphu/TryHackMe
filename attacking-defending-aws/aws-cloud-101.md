@@ -100,5 +100,5 @@ Diffrent countries have different laws and regulations regarding how Amazon stor
 
 > Answer: Optional
 
-Flags: THM{AWS_CLOUD__00100}
+Flags: **THM{AWS_CLOUD__00100}**
 
