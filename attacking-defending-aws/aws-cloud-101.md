@@ -34,28 +34,37 @@ Diffrent countries have different laws and regulations regarding how Amazon stor
 ## Answers the questions
 
 **What decade did companies start having widespread reliance on internet-connected services?**
+
 -> 1990s
 
 **Was EC2 Autoscaling the first autoscaling service in AWS? (yea/nay)**
+
 -> nay
 
 **How close together (in miles) should an Availability Zone's data centers be?**
+
 -> 60
 
 **What continent has no AWS Region??**
+
 -> Antartica                                                             
 
 **What country has its own AWS partition?**
+
 -> China
 
 **Is a major purchase intended to be used by a business over a long period of time a capital expense or operating expense?**
+
 -> capital expense
 
 **Who announced the "API Mandate" at AWS?**
+
 -> Jeff Bezos
 
 **What is AWS native "Infrastructure-as-Code" tool?**
+
 -> CloudFormation
 
 **Does serverless cost more or less when running idle than traditional servers?**
+
 -> less
