@@ -54,3 +54,8 @@ Diffrent countries have different laws and regulations regarding how Amazon stor
 **Who announced the "API Mandate" at AWS?**
 -> Jeff Bezos
 
+**What is AWS native "Infrastructure-as-Code" tool?**
+-> CloudFormation
+
+**Does serverless cost more or less when running idle than traditional servers?**
+-> less
